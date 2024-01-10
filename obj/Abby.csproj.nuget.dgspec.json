@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby\\Abby.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.DataAccess\\Abby.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.DataAccess\\Abby.DataAccess.csproj",
+        "projectName": "Abby.DataAccess",
+        "projectPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.DataAccess\\Abby.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\KellCha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KellCha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Models\\Abby.Models.csproj": {
+                "projectPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Models\\Abby.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Models\\Abby.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Models\\Abby.Models.csproj",
+        "projectName": "Abby.Models",
+        "projectPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Models\\Abby.Models.csproj",
+        "packagesPath": "C:\\Users\\KellCha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KellCha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Utility\\Abby.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Utility\\Abby.Utility.csproj",
+        "projectName": "Abby.Utility",
+        "projectPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Utility\\Abby.Utility.csproj",
+        "packagesPath": "C:\\Users\\KellCha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KellCha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby\\Abby.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby\\Abby.csproj",
+        "projectName": "Abby",
+        "projectPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby\\Abby.csproj",
+        "packagesPath": "C:\\Users\\KellCha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KellCha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.DataAccess\\Abby.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.DataAccess\\Abby.DataAccess.csproj"
+              },
+              "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Models\\Abby.Models.csproj": {
+                "projectPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Models\\Abby.Models.csproj"
+              },
+              "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Utility\\Abby.Utility.csproj": {
+                "projectPath": "C:\\Users\\KellCha\\source\\repos\\UdemyCourses\\Abby\\Abby\\Abby\\Abby.Utility\\Abby.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
